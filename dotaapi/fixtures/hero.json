@@ -1,0 +1,1242 @@
+[
+    {
+        "model": "dotaapi.hero",
+        "pk": 1,
+        "fields": {
+            "name": "Abaddon",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 2,
+        "fields": {
+            "name": "Alchemist",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 3,
+        "fields": {
+            "name": "Ancient Apparition",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 4,
+        "fields": {
+            "name": "Anti-Mage",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 5,
+        "fields": {
+            "name": "Arc Warden",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 6,
+        "fields": {
+            "name": "Axe",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 7,
+        "fields": {
+            "name": "Bane",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 8,
+        "fields": {
+            "name": "Batrider",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 9,
+        "fields": {
+            "name": "Beastmaster",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 10,
+        "fields": {
+            "name": "Bloodseeker",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 11,
+        "fields": {
+            "name": "Bounty Hunger",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 12,
+        "fields": {
+            "name": "Brewmaster",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 13,
+        "fields": {
+            "name": "Bristleback",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 14,
+        "fields": {
+            "name": "Broodmother",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 15,
+        "fields": {
+            "name": "Centaur Warrunner",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 16,
+        "fields": {
+            "name": "Chaos Knight",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 17,
+        "fields": {
+            "name": "Chen",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 18,
+        "fields": {
+            "name": "Clinkz",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 19,
+        "fields": {
+            "name": "Clockwerk",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 20,
+        "fields": {
+            "name": "Crystal Maiden",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 21,
+        "fields": {
+            "name": "Dark Seer",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 22,
+        "fields": {
+            "name": "Dark Willow",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 23,
+        "fields": {
+            "name": "Dawnbreaker",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 24,
+        "fields": {
+            "name": "Dazzle",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 25,
+        "fields": {
+            "name": "Death Prophet",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 26,
+        "fields": {
+            "name": "Disruptor",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 27,
+        "fields": {
+            "name": "Doom",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 28,
+        "fields": {
+            "name": "Dragon Knight",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 29,
+        "fields": {
+            "name": "Drow Ranger",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 30,
+        "fields": {
+            "name": "Earth Spirit",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 31,
+        "fields": {
+            "name": "Earthshaker",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 32,
+        "fields": {
+            "name": "Elder Titan",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 33,
+        "fields": {
+            "name": "Ember Spirit",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 34,
+        "fields": {
+            "name": "Enchantress",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 35,
+        "fields": {
+            "name": "Enigma",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 36,
+        "fields": {
+            "name": "Faceless Void",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 37,
+        "fields": {
+            "name": "Grimstroke",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 38,
+        "fields": {
+            "name": "Gyrocopter",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 39,
+        "fields": {
+            "name": "Hoodwink",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 40,
+        "fields": {
+            "name": "Huskar",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 41,
+        "fields": {
+            "name": "Invoker",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 42,
+        "fields": {
+            "name": "Io",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 43,
+        "fields": {
+            "name": "Jakiro",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 44,
+        "fields": {
+            "name": "Juggernaut",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 45,
+        "fields": {
+            "name": "Keeper of the Light",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 46,
+        "fields": {
+            "name": "Kunkka",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 47,
+        "fields": {
+            "name": "Legion Commander",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 48,
+        "fields": {
+            "name": "Leshrac",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 49,
+        "fields": {
+            "name": "Lich",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 50,
+        "fields": {
+            "name": "Lifestealer",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 51,
+        "fields": {
+            "name": "Lina",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 52,
+        "fields": {
+            "name": "Lion",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 53,
+        "fields": {
+            "name": "Lone Druid",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 54,
+        "fields": {
+            "name": "Luna",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 55,
+        "fields": {
+            "name": "Lycan",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 56,
+        "fields": {
+            "name": "Magnus",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 57,
+        "fields": {
+            "name": "Marci",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 58,
+        "fields": {
+            "name": "Mars",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 59,
+        "fields": {
+            "name": "Medusa",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 60,
+        "fields": {
+            "name": "Meepo",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 61,
+        "fields": {
+            "name": "Mirana",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 62,
+        "fields": {
+            "name": "Monkey King",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 63,
+        "fields": {
+            "name": "Morphling",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 64,
+        "fields": {
+            "name": "Muerta",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 65,
+        "fields": {
+            "name": "Naga Siren",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 66,
+        "fields": {
+            "name": "Nature's Prophet",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 67,
+        "fields": {
+            "name": "Necrophos",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 68,
+        "fields": {
+            "name": "Night Stalker",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 69,
+        "fields": {
+            "name": "Nyx Assassin",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 70,
+        "fields": {
+            "name": "Ogre Magi",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 71,
+        "fields": {
+            "name": "Omniknight",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 72,
+        "fields": {
+            "name": "Oracle",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 73,
+        "fields": {
+            "name": "Outworld Destroyer",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 74,
+        "fields": {
+            "name": "Pangolier",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 75,
+        "fields": {
+            "name": "Phantom Assassin",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 76,
+        "fields": {
+            "name": "Phantom Lancer",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 77,
+        "fields": {
+            "name": "Phoenix",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 78,
+        "fields": {
+            "name": "Primal Beast",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 79,
+        "fields": {
+            "name": "Puck",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 80,
+        "fields": {
+            "name": "Pudge",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 81,
+        "fields": {
+            "name": "Pugna",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 82,
+        "fields": {
+            "name": "Queen of Pain",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 83,
+        "fields": {
+            "name": "Razor",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 84,
+        "fields": {
+            "name": "Riki",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 85,
+        "fields": {
+            "name": "Rubick",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 86,
+        "fields": {
+            "name": "Sand King",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 87,
+        "fields": {
+            "name": "Shadow Demon",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 88,
+        "fields": {
+            "name": "Shadow Fiend",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 89,
+        "fields": {
+            "name": "Shadow Shaman",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 90,
+        "fields": {
+            "name": "Silencer",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 91,
+        "fields": {
+            "name": "Skywrath Mage",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 92,
+        "fields": {
+            "name": "Slardar",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 93,
+        "fields": {
+            "name": "Slark",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 94,
+        "fields": {
+            "name": "Snapfire",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 95,
+        "fields": {
+            "name": "Sniper",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 96,
+        "fields": {
+            "name": "Spectre",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 97,
+        "fields": {
+            "name": "Spirit Breaker",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 98,
+        "fields": {
+            "name": "Storm Spirit",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 99,
+        "fields": {
+            "name": "Sven",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 100,
+        "fields": {
+            "name": "Techies",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 101,
+        "fields": {
+            "name": "Templar Assassin",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 102,
+        "fields": {
+            "name": "Terrorblade",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 103,
+        "fields": {
+            "name": "Tidehunter",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 104,
+        "fields": {
+            "name": "Timbersaw",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 105,
+        "fields": {
+            "name": "Tinker",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 106,
+        "fields": {
+            "name": "Tiny",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 107,
+        "fields": {
+            "name": "Treant Protector",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 108,
+        "fields": {
+            "name": "Troll Warlord",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 109,
+        "fields": {
+            "name": "Tusk",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 110,
+        "fields": {
+            "name": "Underlord",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 111,
+        "fields": {
+            "name": "Undying",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 112,
+        "fields": {
+            "name": "Ursa",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 113,
+        "fields": {
+            "name": "Vengeful Spirit",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 114,
+        "fields": {
+            "name": "Venomancer",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 115,
+        "fields": {
+            "name": "Viper",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 116,
+        "fields": {
+            "name": "Visage",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 117,
+        "fields": {
+            "name": "Void Spirit",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 118,
+        "fields": {
+            "name": "Warlock",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 119,
+        "fields": {
+            "name": "Weaver",
+            "attribute": "agi",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 120,
+        "fields": {
+            "name": "Windranger",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 121,
+        "fields": {
+            "name": "Winter Wyvern",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 122,
+        "fields": {
+            "name": "Witch Doctor",
+            "attribute": "int",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 123,
+        "fields": {
+            "name": "Wraith King",
+            "attribute": "str",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    },
+    {
+        "model": "dotaapi.hero",
+        "pk": 124,
+        "fields": {
+            "name": "Zeus",
+            "attribute": "uni",
+            "portraiturl": "",
+            "iconurl": ""
+        }
+    }
+]
