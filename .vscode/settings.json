@@ -5,4 +5,8 @@
         "--load-plugins=pylint_django",
         "--django-settings-module=dota.settings",
     ],
+    "cSpell.words": [
+        "randoming",
+        "randomizer"
+    ],
 }
