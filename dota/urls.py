@@ -18,12 +18,13 @@ from django.conf.urls import include
 from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
-from dotaapi.views import login_user, register_user, getMe, HeroView, RandomizerView
+from dotaapi.views import login_user, register_user, getMe, HeroView, RandomizerView, ProfileView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'hero', HeroView, 'hero')
 router.register(r'heroes', HeroView, 'heroes')
 router.register(r'random', RandomizerView, 'random')
+router.register(r'profile', ProfileView, 'profile')
 # router.register(r'tabs', TabView, 'tab')
 # router.register(r'items', ItemView, 'item')
 # router.register(r'itemTypes', ItemTypeView, 'itemType')

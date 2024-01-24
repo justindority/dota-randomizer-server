@@ -4,7 +4,7 @@ from django.contrib.auth.models import User
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from dotaapi.models import Profile
+from dotaapi.models import Profile, BannedHeroes, Hero
 from datetime import date
 
 
@@ -42,14 +42,30 @@ class ProfileView(ViewSet):
             Response -- JSON serialized profile instance
         """
 
-        user = User.objects.get(pk=request.data['user'])
+        user = User.objects.get(id=request.auth.user.id)
 
-        profile = Profile.objects.create(
+        newProfile = Profile.objects.create(
             user=user,
-            name=request.data['name'],
+            name=request.data['title']
             )
 
-        serializer = ProfileSerializer(profile)
+        chosenHeroes = request.data
+        count = 1
+        while count < 125:
+            countStr = str(count)
+            if chosenHeroes[countStr]:
+                count += 1
+                continue
+            else:
+                count +=1
+                test = 'stuff'
+                bannedHero = BannedHeroes.objects.create(
+                    hero = Hero.objects.get(id=count),
+                    profile = Profile.objects.get(id=newProfile.id)
+                )
+            
+
+        serializer = ProfileSerializer(newProfile)
         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
     def update(self, request, pk):
