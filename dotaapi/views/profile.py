@@ -32,6 +32,12 @@ class ProfileView(ViewSet):
         """
 
         profiles = Profile.objects.all()
+        me = User.objects.get(id=request.auth.user.id)
+
+
+        if 'mine' in request.query_params:
+            profiles = profiles.filter(user=me)
+
         serializer = ProfileSerializer(profiles, many=True) 
         return Response(serializer.data)
 
@@ -57,12 +63,12 @@ class ProfileView(ViewSet):
                 count += 1
                 continue
             else:
-                count +=1
                 test = 'stuff'
                 bannedHero = BannedHeroes.objects.create(
                     hero = Hero.objects.get(id=count),
                     profile = Profile.objects.get(id=newProfile.id)
                 )
+                count +=1
             
 
         serializer = ProfileSerializer(newProfile)
@@ -76,12 +82,28 @@ class ProfileView(ViewSet):
         """
 
         profile = Profile.objects.get(pk=request.data['id'])
-        user = User.objects.get(pk=request.data['user_id'])
         
         profile.name = request.data['name']
 
+        # chosenHeroes = request.data
+        # count = 1
+        # while count < 125:
+        #     countStr = str(count)
+        #     if chosenHeroes[countStr]:
+        #         count += 1
+        #         currentHeroBan = Hero.objects.get(pk=chosenHeroes[countStr])
+        #         if currentHeroBan:
+        #             currentHeroBan.delete()
+        #         continue
+        #     else:
+        #         count +=1
+        #         test = 'stuff'
+        #         bannedHero = BannedHeroes.objects.create(
+        #             hero = Hero.objects.get(id=count),
+        #             profile = Profile.objects.get(id=newProfile.id)
+        #         )
+
         profile.save()
-        user.save()
 
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
@@ -94,5 +116,5 @@ class ProfileSerializer(serializers.ModelSerializer):
     """
     class Meta:
         model = Profile
-        fields = ('id', 'user', 'banned')
+        fields = ('id', 'user', 'name', 'banned')
         depth = 1
