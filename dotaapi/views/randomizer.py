@@ -61,11 +61,15 @@ class RandomizerView(ViewSet):
         if 'uni' in request.query_params:
             uniHeroes = heroes.filter(attribute = 'uni')
             hero = random.choice(uniHeroes)
+        
+        if pk:
+            profile = Profile.objects.get(pk=pk)
+            heroesFilter = heroes.exclude(id___in=profile.banned)
+            hero = random.choice(heroesFilter)
+
 
 
         if hero:
-
-
             serializer = HeroSerializer(hero)
             return Response(serializer.data)
 

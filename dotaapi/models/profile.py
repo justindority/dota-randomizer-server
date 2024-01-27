@@ -11,4 +11,3 @@ class Profile(models.Model):
     name = models.CharField(max_length=155)
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     banned = models.ManyToManyField("Hero", through=BannedHeroes)
-    

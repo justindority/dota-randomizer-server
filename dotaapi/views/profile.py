@@ -85,29 +85,49 @@ class ProfileView(ViewSet):
         
         profile.name = request.data['name']
 
-        # chosenHeroes = request.data
-        # count = 1
-        # while count < 125:
-        #     countStr = str(count)
-        #     if chosenHeroes[countStr]:
-        #         count += 1
-        #         currentHeroBan = Hero.objects.get(pk=chosenHeroes[countStr])
-        #         if currentHeroBan:
-        #             currentHeroBan.delete()
-        #         continue
-        #     else:
-        #         count +=1
-        #         test = 'stuff'
-        #         bannedHero = BannedHeroes.objects.create(
-        #             hero = Hero.objects.get(id=count),
-        #             profile = Profile.objects.get(id=newProfile.id)
-        #         )
+        chosenHeroes = request.data
+        count = 1
+        while count < 125:
+            countStr = str(count)
+            currentHeroBan = Hero.objects.get(pk=chosenHeroes[countStr])
+            banObject = BannedHeroes.objects.get(
+                hero = currentHeroBan,
+                profile = profile
+            )
+
+            if chosenHeroes[countStr]:
+                count += 1
+                if banObject:
+                    currentHeroBan.delete()
+            else:
+                if banObject:
+                    count +=1
+                    continue
+                else:
+                    BannedHeroes.objects.create(
+                        hero = currentHeroBan,
+                        profile = profile
+                    )
+                    count +=1
 
         profile.save()
 
         return Response(None, status=status.HTTP_204_NO_CONTENT)
 
+    def delete(self, request):
+        """Handle Delete requests for a profile. 
         
+        Returns """
+
+
+        profile = Profile.objects.get(pk=request.data)
+        user = User.objects.get(id=request.auth.user.id)
+
+        if profile.user == user:
+            profile.delete()
+
+        return Response(None, status=status.HTTP_204_NO_CONTENT)
+
 
 
 
