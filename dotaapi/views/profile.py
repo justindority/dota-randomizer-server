@@ -81,24 +81,27 @@ class ProfileView(ViewSet):
             Response -- Empty body with 204 status code
         """
 
-        profile = Profile.objects.get(pk=request.data['id'])
+        profile = Profile.objects.get(pk=pk)
         
-        profile.name = request.data['name']
+        profile.name = request.data['title']
 
         chosenHeroes = request.data
         count = 1
         while count < 125:
             countStr = str(count)
-            currentHeroBan = Hero.objects.get(pk=chosenHeroes[countStr])
-            banObject = BannedHeroes.objects.get(
-                hero = currentHeroBan,
-                profile = profile
-            )
+            currentHeroBan = Hero.objects.get(pk=count)
+            try:
+                banObject = BannedHeroes.objects.get(
+                    hero = currentHeroBan,
+                    profile = profile
+                )
+            except:
+                banObject = False
 
             if chosenHeroes[countStr]:
                 count += 1
                 if banObject:
-                    currentHeroBan.delete()
+                    banObject.delete()
             else:
                 if banObject:
                     count +=1

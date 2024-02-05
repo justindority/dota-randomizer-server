@@ -22,16 +22,12 @@ class RandomizerView(ViewSet):
 
         heroes = Hero.objects.all()
 
-        if 'true' in request.query_params:
-            hero = random.sample(heroes)
-     
+        profile = Profile.objects.get(pk=pk)
+        heroesFilter = heroes.exclude(id__in=profile.banned.all())
+        hero = random.choice(heroesFilter)
 
-
-        if hero:
-
-
-            serializer = HeroSerializer(hero)
-            return Response(serializer.data)
+        serializer = HeroSerializer(hero)
+        return Response(serializer.data)
 
     def list(self, request):
         """Handle GET requests for custom randoming a hero. needs to have
@@ -62,12 +58,6 @@ class RandomizerView(ViewSet):
             uniHeroes = heroes.filter(attribute = 'uni')
             hero = random.choice(uniHeroes)
         
-        if pk:
-            profile = Profile.objects.get(pk=pk)
-            heroesFilter = heroes.exclude(id___in=profile.banned)
-            hero = random.choice(heroesFilter)
-
-
 
         if hero:
             serializer = HeroSerializer(hero)

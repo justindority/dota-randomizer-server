@@ -43,17 +43,14 @@ def register_user(request):
       request -- The full HTTP request object
     '''
 
-    if User.objects.filter(email=request.data['email']):
-        return Response('Duplicate Email Found')
+    if User.objects.filter(username=request.data['username']):
+        return Response('Duplicate Username Found')
 
     # Create a new user by invoking the `create_user` helper method
     # on Django's built-in User model
     new_user = User.objects.create_user(
         username=request.data['username'],
-        password=request.data['password'],
-        first_name=request.data['firstName'],
-        last_name=request.data['lastName'],
-        email=request.data['email']
+        password=request.data['password']
         )
 
     # Now save the extra info in the employee table

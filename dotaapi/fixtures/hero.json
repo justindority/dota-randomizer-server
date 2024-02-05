@@ -5,7 +5,7 @@
         "fields": {
             "name": "Abaddon",
             "attribute": "uni",
-            "portraiturl": "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/6/65/Abaddon_portrait_icon.png/revision/latest?cb=20191129220438",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/abaddon_vert.jpg",
             "iconurl": ""
         }
     },
@@ -15,7 +15,7 @@
         "fields": {
             "name": "Alchemist",
             "attribute": "str",
-            "portraiturl": "https://static.wikia.nocookie.net/dotaunderlords_gamepedia_en/images/7/71/Alchemist_portrait_icon.png/revision/latest?cb=20191129220439",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/alchemist_vert.jpg",
             "iconurl": ""
         }
     },
@@ -25,7 +25,7 @@
         "fields": {
             "name": "Ancient Apparition",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/ancient_apparition_vert.jpg",
             "iconurl": ""
         }
     },
@@ -35,7 +35,7 @@
         "fields": {
             "name": "Anti-Mage",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/antimage_vert.jpg",
             "iconurl": ""
         }
     },
@@ -45,7 +45,7 @@
         "fields": {
             "name": "Arc Warden",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/arc_warden_vert.jpg",
             "iconurl": ""
         }
     },
@@ -55,7 +55,7 @@
         "fields": {
             "name": "Axe",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/axe_vert.jpg",
             "iconurl": ""
         }
     },
@@ -65,7 +65,7 @@
         "fields": {
             "name": "Bane",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/bane_vert.jpg",
             "iconurl": ""
         }
     },
@@ -75,7 +75,7 @@
         "fields": {
             "name": "Batrider",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/batrider_vert.jpg",
             "iconurl": ""
         }
     },
@@ -85,7 +85,7 @@
         "fields": {
             "name": "Beastmaster",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/beastmaster_vert.jpg",
             "iconurl": ""
         }
     },
@@ -95,7 +95,7 @@
         "fields": {
             "name": "Bloodseeker",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/bloodseeker_vert.jpg",
             "iconurl": ""
         }
     },
@@ -105,7 +105,7 @@
         "fields": {
             "name": "Bounty Hunger",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/bounty_hunter_vert.jpg",
             "iconurl": ""
         }
     },
@@ -115,7 +115,7 @@
         "fields": {
             "name": "Brewmaster",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/brewmaster_vert.jpg",
             "iconurl": ""
         }
     },
@@ -125,7 +125,7 @@
         "fields": {
             "name": "Bristleback",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/bristleback_vert.jpg",
             "iconurl": ""
         }
     },
@@ -135,7 +135,7 @@
         "fields": {
             "name": "Broodmother",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/broodmother_vert.jpg",
             "iconurl": ""
         }
     },
@@ -145,7 +145,7 @@
         "fields": {
             "name": "Centaur Warrunner",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/centaur_vert.jpg",
             "iconurl": ""
         }
     },
@@ -155,7 +155,7 @@
         "fields": {
             "name": "Chaos Knight",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/chaos_knight_vert.jpg",
             "iconurl": ""
         }
     },
@@ -165,7 +165,7 @@
         "fields": {
             "name": "Chen",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/chen_vert.jpg",
             "iconurl": ""
         }
     },
@@ -175,7 +175,7 @@
         "fields": {
             "name": "Clinkz",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/clinkz_vert.jpg",
             "iconurl": ""
         }
     },
@@ -185,7 +185,7 @@
         "fields": {
             "name": "Clockwerk",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/rattletrap_vert.jpg",
             "iconurl": ""
         }
     },
@@ -195,7 +195,7 @@
         "fields": {
             "name": "Crystal Maiden",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/crystal_maiden_vert.jpg",
             "iconurl": ""
         }
     },
@@ -205,7 +205,7 @@
         "fields": {
             "name": "Dark Seer",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_seer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -215,7 +215,7 @@
         "fields": {
             "name": "Dark Willow",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/dark_willow_vert.jpg",
             "iconurl": ""
         }
     },
@@ -225,7 +225,7 @@
         "fields": {
             "name": "Dawnbreaker",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66819286-b0a8-46d4-b400-dcc0b334bcba/dfbejlx-72d2a907-e203-4169-8c3e-f894d8612d18.jpg/v1/fit/w_828,h_1104,q_70,strp/dawn_breaker_by_st3doom_dfbejlx-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwMCIsInBhdGgiOiJcL2ZcLzY2ODE5Mjg2LWIwYTgtNDZkNC1iNDAwLWRjYzBiMzM0YmNiYVwvZGZiZWpseC03MmQyYTkwNy1lMjAzLTQxNjktOGMzZS1mODk0ZDg2MTJkMTguanBnIiwid2lkdGgiOiI8PTE1MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6fNB4tAQ7_wa7QKi3v1pDIlSYdllnEk2fcKy192QiJg",
             "iconurl": ""
         }
     },
@@ -235,7 +235,7 @@
         "fields": {
             "name": "Dazzle",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/dazzle_vert.jpg",
             "iconurl": ""
         }
     },
@@ -245,7 +245,7 @@
         "fields": {
             "name": "Death Prophet",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/death_prophet_vert.jpg",
             "iconurl": ""
         }
     },
@@ -255,7 +255,7 @@
         "fields": {
             "name": "Disruptor",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/disruptor_vert.jpg",
             "iconurl": ""
         }
     },
@@ -265,7 +265,7 @@
         "fields": {
             "name": "Doom",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/doom_bringer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -275,7 +275,7 @@
         "fields": {
             "name": "Dragon Knight",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/dragon_knight_vert.jpg",
             "iconurl": ""
         }
     },
@@ -285,7 +285,7 @@
         "fields": {
             "name": "Drow Ranger",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/drow_ranger_vert.jpg",
             "iconurl": ""
         }
     },
@@ -295,7 +295,7 @@
         "fields": {
             "name": "Earth Spirit",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/earth_spirit_vert.jpg",
             "iconurl": ""
         }
     },
@@ -305,7 +305,7 @@
         "fields": {
             "name": "Earthshaker",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/earthshaker_vert.jpg",
             "iconurl": ""
         }
     },
@@ -315,7 +315,7 @@
         "fields": {
             "name": "Elder Titan",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/elder_titan_vert.jpg",
             "iconurl": ""
         }
     },
@@ -325,7 +325,7 @@
         "fields": {
             "name": "Ember Spirit",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/ember_spirit_vert.jpg",
             "iconurl": ""
         }
     },
@@ -335,7 +335,7 @@
         "fields": {
             "name": "Enchantress",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/enchantress_vert.jpg",
             "iconurl": ""
         }
     },
@@ -345,7 +345,7 @@
         "fields": {
             "name": "Enigma",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/enigma_vert.jpg",
             "iconurl": ""
         }
     },
@@ -355,7 +355,7 @@
         "fields": {
             "name": "Faceless Void",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/faceless_void_vert.jpg",
             "iconurl": ""
         }
     },
@@ -365,7 +365,7 @@
         "fields": {
             "name": "Grimstroke",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "https://dota2.ru/img/heroes/grimstroke/portrait.jpg",
             "iconurl": ""
         }
     },
@@ -375,7 +375,7 @@
         "fields": {
             "name": "Gyrocopter",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/gyrocopter_vert.jpg",
             "iconurl": ""
         }
     },
@@ -385,7 +385,7 @@
         "fields": {
             "name": "Hoodwink",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "https://image-1.uhdpaper.com/wallpaper/hoodwink-dota-2-phone-wallpaper-hd-uhdpaper.com-742@1@f.jpg",
             "iconurl": ""
         }
     },
@@ -395,7 +395,7 @@
         "fields": {
             "name": "Huskar",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/huskar_vert.jpg",
             "iconurl": ""
         }
     },
@@ -405,7 +405,7 @@
         "fields": {
             "name": "Invoker",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/invoker_vert.jpg",
             "iconurl": ""
         }
     },
@@ -415,7 +415,7 @@
         "fields": {
             "name": "Io",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/wisp_vert.jpg",
             "iconurl": ""
         }
     },
@@ -425,7 +425,7 @@
         "fields": {
             "name": "Jakiro",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/jakiro_vert.jpg",
             "iconurl": ""
         }
     },
@@ -435,7 +435,7 @@
         "fields": {
             "name": "Juggernaut",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/juggernaut_vert.jpg",
             "iconurl": ""
         }
     },
@@ -445,7 +445,7 @@
         "fields": {
             "name": "Keeper of the Light",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/keeper_of_the_light_vert.jpg",
             "iconurl": ""
         }
     },
@@ -455,7 +455,7 @@
         "fields": {
             "name": "Kunkka",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/kunkka_vert.jpg",
             "iconurl": ""
         }
     },
@@ -465,7 +465,7 @@
         "fields": {
             "name": "Legion Commander",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/legion_commander_vert.jpg",
             "iconurl": ""
         }
     },
@@ -475,7 +475,7 @@
         "fields": {
             "name": "Leshrac",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/leshrac_vert.jpg",
             "iconurl": ""
         }
     },
@@ -485,7 +485,7 @@
         "fields": {
             "name": "Lich",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/lich_vert.jpg",
             "iconurl": ""
         }
     },
@@ -495,7 +495,7 @@
         "fields": {
             "name": "Lifestealer",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/life_stealer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -505,7 +505,7 @@
         "fields": {
             "name": "Lina",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/lina_vert.jpg",
             "iconurl": ""
         }
     },
@@ -515,7 +515,7 @@
         "fields": {
             "name": "Lion",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/lion_vert.jpg",
             "iconurl": ""
         }
     },
@@ -525,7 +525,7 @@
         "fields": {
             "name": "Lone Druid",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/lone_druid_vert.jpg",
             "iconurl": ""
         }
     },
@@ -535,7 +535,7 @@
         "fields": {
             "name": "Luna",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/luna_vert.jpg",
             "iconurl": ""
         }
     },
@@ -545,7 +545,7 @@
         "fields": {
             "name": "Lycan",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/lycan_vert.jpg",
             "iconurl": ""
         }
     },
@@ -555,7 +555,7 @@
         "fields": {
             "name": "Magnus",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/magnataur_vert.jpg",
             "iconurl": ""
         }
     },
@@ -565,7 +565,7 @@
         "fields": {
             "name": "Marci",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "https://image-1.uhdpaper.com/wallpaper/marci-dota-2-phone-wallpaper-hd-uhdpaper.com-11@1@e.jpg",
             "iconurl": ""
         }
     },
@@ -575,7 +575,7 @@
         "fields": {
             "name": "Mars",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "https://img.redbull.com/images/c_crop,x_746,y_0,h_1735,w_1388/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2019/03/19/79efb9d9-1280-4778-873b-72570dd169d5/hero-dota-2",
             "iconurl": ""
         }
     },
@@ -585,7 +585,7 @@
         "fields": {
             "name": "Medusa",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/medusa_vert.jpg",
             "iconurl": ""
         }
     },
@@ -595,7 +595,7 @@
         "fields": {
             "name": "Meepo",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/meepo_vert.jpg",
             "iconurl": ""
         }
     },
@@ -605,7 +605,7 @@
         "fields": {
             "name": "Mirana",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/mirana_vert.jpg",
             "iconurl": ""
         }
     },
@@ -615,7 +615,7 @@
         "fields": {
             "name": "Monkey King",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/monkey_king_vert.jpg",
             "iconurl": ""
         }
     },
@@ -625,7 +625,7 @@
         "fields": {
             "name": "Morphling",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/morphling_vert.jpg",
             "iconurl": ""
         }
     },
@@ -635,7 +635,7 @@
         "fields": {
             "name": "Muerta",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/987203bb-40d8-4757-abf2-398b5e7e9900/width=700/dota2muerta.jpeg",
             "iconurl": ""
         }
     },
@@ -645,7 +645,7 @@
         "fields": {
             "name": "Naga Siren",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/naga_siren_vert.jpg",
             "iconurl": ""
         }
     },
@@ -655,7 +655,7 @@
         "fields": {
             "name": "Nature's Prophet",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/furion_vert.jpg",
             "iconurl": ""
         }
     },
@@ -665,7 +665,7 @@
         "fields": {
             "name": "Necrophos",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/necrolyte_vert.jpg",
             "iconurl": ""
         }
     },
@@ -675,7 +675,7 @@
         "fields": {
             "name": "Night Stalker",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/night_stalker_vert.jpg",
             "iconurl": ""
         }
     },
@@ -685,7 +685,7 @@
         "fields": {
             "name": "Nyx Assassin",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/nyx_assassin_vert.jpg",
             "iconurl": ""
         }
     },
@@ -695,7 +695,7 @@
         "fields": {
             "name": "Ogre Magi",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/ogre_magi_vert.jpg",
             "iconurl": ""
         }
     },
@@ -705,7 +705,7 @@
         "fields": {
             "name": "Omniknight",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/omniknight_vert.jpg",
             "iconurl": ""
         }
     },
@@ -715,7 +715,7 @@
         "fields": {
             "name": "Oracle",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/oracle_vert.jpg",
             "iconurl": ""
         }
     },
@@ -725,7 +725,7 @@
         "fields": {
             "name": "Outworld Destroyer",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/obsidian_destroyer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -735,7 +735,7 @@
         "fields": {
             "name": "Pangolier",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/pangolier_vert.jpg",
             "iconurl": ""
         }
     },
@@ -745,7 +745,7 @@
         "fields": {
             "name": "Phantom Assassin",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_assassin_vert.jpg",
             "iconurl": ""
         }
     },
@@ -755,7 +755,7 @@
         "fields": {
             "name": "Phantom Lancer",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/phantom_lancer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -765,7 +765,7 @@
         "fields": {
             "name": "Phoenix",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/phoenix_vert.jpg",
             "iconurl": ""
         }
     },
@@ -775,7 +775,7 @@
         "fields": {
             "name": "Primal Beast",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Primal_Beast_Lore.png/revision/latest?cb=20220224041332",
             "iconurl": ""
         }
     },
@@ -785,7 +785,7 @@
         "fields": {
             "name": "Puck",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/puck_vert.jpg",
             "iconurl": ""
         }
     },
@@ -795,7 +795,7 @@
         "fields": {
             "name": "Pudge",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/pudge_vert.jpg",
             "iconurl": ""
         }
     },
@@ -805,7 +805,7 @@
         "fields": {
             "name": "Pugna",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/pugna_vert.jpg",
             "iconurl": ""
         }
     },
@@ -815,7 +815,7 @@
         "fields": {
             "name": "Queen of Pain",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/queenofpain_vert.jpg",
             "iconurl": ""
         }
     },
@@ -825,7 +825,7 @@
         "fields": {
             "name": "Razor",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/razor_vert.jpg",
             "iconurl": ""
         }
     },
@@ -835,7 +835,7 @@
         "fields": {
             "name": "Riki",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_vert.jpg",
             "iconurl": ""
         }
     },
@@ -845,7 +845,7 @@
         "fields": {
             "name": "Rubick",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/rubick_vert.jpg",
             "iconurl": ""
         }
     },
@@ -855,7 +855,7 @@
         "fields": {
             "name": "Sand King",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/sand_king_vert.jpg",
             "iconurl": ""
         }
     },
@@ -865,7 +865,7 @@
         "fields": {
             "name": "Shadow Demon",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_demon_vert.jpg",
             "iconurl": ""
         }
     },
@@ -875,7 +875,7 @@
         "fields": {
             "name": "Shadow Fiend",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/nevermore_vert.jpg",
             "iconurl": ""
         }
     },
@@ -885,7 +885,7 @@
         "fields": {
             "name": "Shadow Shaman",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/shadow_shaman_vert.jpg",
             "iconurl": ""
         }
     },
@@ -895,7 +895,7 @@
         "fields": {
             "name": "Silencer",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/silencer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -905,7 +905,7 @@
         "fields": {
             "name": "Skywrath Mage",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/skywrath_mage_vert.jpg",
             "iconurl": ""
         }
     },
@@ -915,7 +915,7 @@
         "fields": {
             "name": "Slardar",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/slardar_vert.jpg",
             "iconurl": ""
         }
     },
@@ -925,7 +925,7 @@
         "fields": {
             "name": "Slark",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/slark_vert.jpg",
             "iconurl": ""
         }
     },
@@ -935,7 +935,7 @@
         "fields": {
             "name": "Snapfire",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "https://cdn.dota2.com/apps/dota2/images/heroes/snapfire_vert.jpg",
             "iconurl": ""
         }
     },
@@ -945,7 +945,7 @@
         "fields": {
             "name": "Sniper",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/sniper_vert.jpg",
             "iconurl": ""
         }
     },
@@ -955,7 +955,7 @@
         "fields": {
             "name": "Spectre",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/spectre_vert.jpg",
             "iconurl": ""
         }
     },
@@ -965,7 +965,7 @@
         "fields": {
             "name": "Spirit Breaker",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/spirit_breaker_vert.jpg",
             "iconurl": ""
         }
     },
@@ -975,7 +975,7 @@
         "fields": {
             "name": "Storm Spirit",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/storm_spirit_vert.jpg",
             "iconurl": ""
         }
     },
@@ -985,7 +985,7 @@
         "fields": {
             "name": "Sven",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/sven_vert.jpg",
             "iconurl": ""
         }
     },
@@ -995,7 +995,7 @@
         "fields": {
             "name": "Techies",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/techies_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1005,7 +1005,7 @@
         "fields": {
             "name": "Templar Assassin",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/templar_assassin_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1015,7 +1015,7 @@
         "fields": {
             "name": "Terrorblade",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/terrorblade_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1025,7 +1025,7 @@
         "fields": {
             "name": "Tidehunter",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/tidehunter_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1035,7 +1035,7 @@
         "fields": {
             "name": "Timbersaw",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/shredder_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1045,7 +1045,7 @@
         "fields": {
             "name": "Tinker",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/tinker_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1055,7 +1055,7 @@
         "fields": {
             "name": "Tiny",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/tiny_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1065,7 +1065,7 @@
         "fields": {
             "name": "Treant Protector",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/treant_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1075,7 +1075,7 @@
         "fields": {
             "name": "Troll Warlord",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/troll_warlord_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1085,7 +1085,7 @@
         "fields": {
             "name": "Tusk",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/tusk_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1095,7 +1095,7 @@
         "fields": {
             "name": "Underlord",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/abyssal_underlord_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1105,7 +1105,7 @@
         "fields": {
             "name": "Undying",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/undying_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1115,7 +1115,7 @@
         "fields": {
             "name": "Ursa",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/ursa_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1125,7 +1125,7 @@
         "fields": {
             "name": "Vengeful Spirit",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/vengefulspirit_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1135,7 +1135,7 @@
         "fields": {
             "name": "Venomancer",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/venomancer_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1145,7 +1145,7 @@
         "fields": {
             "name": "Viper",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/viper_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1155,7 +1155,7 @@
         "fields": {
             "name": "Visage",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/visage_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1165,7 +1165,7 @@
         "fields": {
             "name": "Void Spirit",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "https://cdn.dota2.com/apps/dota2/images/heroes/void_spirit_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1175,7 +1175,7 @@
         "fields": {
             "name": "Warlock",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/warlock_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1185,7 +1185,7 @@
         "fields": {
             "name": "Weaver",
             "attribute": "agi",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/weaver_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1195,7 +1195,7 @@
         "fields": {
             "name": "Windranger",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/windrunner_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1205,7 +1205,7 @@
         "fields": {
             "name": "Winter Wyvern",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/winter_wyvern_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1215,7 +1215,7 @@
         "fields": {
             "name": "Witch Doctor",
             "attribute": "int",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/witch_doctor_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1225,7 +1225,7 @@
         "fields": {
             "name": "Wraith King",
             "attribute": "str",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/skeleton_king_vert.jpg",
             "iconurl": ""
         }
     },
@@ -1235,7 +1235,7 @@
         "fields": {
             "name": "Zeus",
             "attribute": "uni",
-            "portraiturl": "",
+            "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_vert.jpg",
             "iconurl": ""
         }
     }
