@@ -385,7 +385,7 @@
         "fields": {
             "name": "Hoodwink",
             "attribute": "agi",
-            "portraiturl": "https://image-1.uhdpaper.com/wallpaper/hoodwink-dota-2-phone-wallpaper-hd-uhdpaper.com-742@1@f.jpg",
+            "portraiturl": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Hoodwink_icon.png",
             "iconurl": ""
         }
     },
@@ -565,7 +565,7 @@
         "fields": {
             "name": "Marci",
             "attribute": "uni",
-            "portraiturl": "https://image-1.uhdpaper.com/wallpaper/marci-dota-2-phone-wallpaper-hd-uhdpaper.com-11@1@e.jpg",
+            "portraiturl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/marci/wallpapers/marci_wallpaper_3_mobile.png",
             "iconurl": ""
         }
     },
@@ -775,7 +775,7 @@
         "fields": {
             "name": "Primal Beast",
             "attribute": "str",
-            "portraiturl": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Primal_Beast_Lore.png/revision/latest?cb=20220224041332",
+            "portraiturl": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Primal_Beast_icon.png",
             "iconurl": ""
         }
     },
