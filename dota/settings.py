@@ -58,8 +58,13 @@ REST_FRAMEWORK = {
     ],
 }
 
+CORS_ALLOWED_ORIGINS = [
+    'https://coral-app-x7hm9.ondigitalocean.app'
+]
+
 CORS_ORIGIN_WHITELIST = (
-    '*'
+    '*',
+    'https://coral-app-x7hm9.ondigitalocean.app/'
 )
 
 MIDDLEWARE = [
