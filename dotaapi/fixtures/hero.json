@@ -385,7 +385,7 @@
         "fields": {
             "name": "Hoodwink",
             "attribute": "agi",
-            "portraiturl": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Hoodwink_icon.png",
+            "portraiturl": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5852a500-27af-49c1-9fc1-664f54c7ad00/629223.jpeg",
             "iconurl": ""
         }
     },
@@ -775,7 +775,7 @@
         "fields": {
             "name": "Primal Beast",
             "attribute": "str",
-            "portraiturl": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Primal_Beast_icon.png",
+            "portraiturl": "https://www.bitelgaming.pe/assets/images/news/1645937224BEAST-360x587.jpg",
             "iconurl": ""
         }
     },
@@ -1234,7 +1234,7 @@
         "pk": 124,
         "fields": {
             "name": "Zeus",
-            "attribute": "uni",
+            "attribute": "int",
             "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/zuus_vert.jpg",
             "iconurl": ""
         }
