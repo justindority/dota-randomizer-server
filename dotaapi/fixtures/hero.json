@@ -834,7 +834,7 @@
         "pk": 84,
         "fields": {
             "name": "Riki",
-            "attribute": "int",
+            "attribute": "agi",
             "portraiturl": "http://cdn.dota2.com/apps/dota2/images/heroes/riki_vert.jpg",
             "iconurl": ""
         }
